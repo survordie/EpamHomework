@@ -1,0 +1,17 @@
+Create file
+param create <File>: create 1.txt
+
+Create directory
+param mkdir <Dir>: mkdir 1
+
+Rename
+param rename <source File or Dir> <target File or Dir>: rename 1.txt 2.txt
+
+Copy
+param cope <source File or Dir> <target File or Dir>: copy 1.txt 3.txt
+
+Move
+param move <source File or Dir> <target File or Dir>: move 1.txt 4.txt
+
+Delete
+param delete <File or Dir>: delete 1.txt
