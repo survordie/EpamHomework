@@ -1,6 +1,5 @@
 package com.epam.homework.CommandLine;
 
-import org.junit.Before;
 import org.junit.Test;
 
 import java.nio.file.Files;
