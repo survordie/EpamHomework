@@ -11,6 +11,9 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 import java.util.zip.ZipOutputStream;
 
+/**
+ *  Some utilities for working with files
+ */
 public class CommandUtils {
 
     public static void createFile(String name) {

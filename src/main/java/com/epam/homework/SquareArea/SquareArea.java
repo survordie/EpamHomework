@@ -1,7 +1,7 @@
 package com.epam.homework.SquareArea;
 
 /**
- * Class for describing area calculating
+ * Class for evaluating square area
  */
 public class SquareArea {
 
