@@ -15,3 +15,6 @@ param move <source File or Dir> <target File or Dir>: move 1.txt 4.txt
 
 Delete
 param delete <File or Dir>: delete 1.txt
+
+Show
+param show <Dir>: show C:\
